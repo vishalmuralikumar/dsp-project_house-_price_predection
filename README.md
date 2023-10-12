@@ -1,1 +1,4 @@
-# dsp-project_house-_price_predection
+# install python libraries 
+numpy
+pandas
+sckitlearn
